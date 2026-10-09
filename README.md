@@ -38,7 +38,7 @@ Algorithms & Data Structures  █████████░   Software Engineer
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🔍 [**Search Algorithms**](https://github.com/arasyfathi/search-algorithms) | Comprehensive collection of 8 classic search algorithms across 8 languages | Python, C++, Java, JS, Rust |
+| 🔍 [**AI-TE01 (Search Algorithms)**](https://github.com/arasyfathi/AI-TE01) | Comprehensive collection of 8 classic search algorithms across 8 languages | Python, C++, Java, JS, Rust |
 | 🌐 [**Personal Portfolio**](https://github.com/arasyfathi) | Modern and interactive web portfolio showcasing design & projects | HTML5, CSS3, JavaScript |
 | ⚙️ **Core Engineering** | Embedded systems, microcontrollers & algorithmic implementations | C/C++, Python, Arduino |
 
