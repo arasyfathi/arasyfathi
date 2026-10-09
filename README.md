@@ -1,16 +1,16 @@
 <div align="center">
 
 ```text
- █████  ██████   █████  ███████ ██    ██
-██   ██ ██   ██ ██   ██ ██       ██  ██ 
-███████ ██████  ███████ ███████   ████  
-██   ██ ██   ██ ██   ██      ██    ██   
-██   ██ ██   ██ ██   ██ ███████    ██   
+███████  █████  ████████ ██   ██ ██   █████  ██████   █████  ███████ ██    ██
+██      ██   ██    ██    ██   ██ ██  ██   ██ ██   ██ ██   ██ ██       ██  ██ 
+█████   ███████    ██    ███████ ██  ███████ ██████  ███████ ███████   ████  
+██      ██   ██    ██    ██   ██ ██  ██   ██ ██   ██ ██   ██      ██    ██   
+██      ██   ██    ██    ██   ██ ██  ██   ██ ██   ██ ██   ██ ███████    ██   
 ```
 
-**Software Engineering Student · Web & Algorithm Enthusiast**
+**Electrical Engineering Student · Embedded Systems & Software Enthusiast**
 
-*Universitas Telkom — S1 Informatika*
+*Universitas Telkom — S1 Teknik Elektro*
 
 </div>
 
@@ -18,18 +18,18 @@
 
 ### ⚡ About
 
-Developer by day, problem solver by night. Exploring the intersection between efficient algorithms, intuitive web design, and scalable software systems.
+Engineer by day, developer by night. Straddling the line between hardware systems, embedded engineering, and algorithmic software development.
 
-Currently focusing on algorithm optimization, clean code architecture, and modern full-stack development.
+Currently focusing on electrical engineering fundamentals, signal processing, algorithms, and clean software architecture.
 
 ---
 
 ### 🎓 Academic Focus
 
 ```text
-Algorithms & Data Structures  ████████░░   Web Development       █████████░
-Object-Oriented Programming   ████████░░   Database Systems      ███████░░░
-Computer Networks             ███████░░░   Software Engineering  ████████░░
+Embedded Systems & IoT        ████████░░   Signal Processing     ████████░░
+Control Systems               ████████░░   Circuit & Electronics ███████░░░
+Algorithms & Data Structures  █████████░   Software Engineering  ████████░░
 ```
 
 ---
@@ -40,18 +40,18 @@ Computer Networks             ███████░░░   Software Engineer
 | :--- | :--- | :--- |
 | 🔍 [**Search Algorithms**](https://github.com/arasyfathi/search-algorithms) | Comprehensive collection of 8 classic search algorithms across 8 languages | Python, C++, Java, JS, Rust |
 | 🌐 [**Personal Portfolio**](https://github.com/arasyfathi) | Modern and interactive web portfolio showcasing design & projects | HTML5, CSS3, JavaScript |
-| ⚡ **Core Development** | Efficient algorithm implementations and software utility tools | Python, C++, Git |
+| ⚙️ **Core Engineering** | Embedded systems, microcontrollers & algorithmic implementations | C/C++, Python, Arduino |
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Programming:**  
+**Programming & Embedded:**  
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
 
 **Web & Tools:**  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -64,4 +64,4 @@ Computer Networks             ███████░░░   Software Engineer
 
 ### 📌 Pinned Philosophy
 
-> *"The best code is not just functional, but elegant, efficient, and well-structured."*
+> *"The best engineers understand software. The best developers understand systems."*
